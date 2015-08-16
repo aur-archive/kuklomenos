@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Kuklomenos
+Comment=An abstract shoot 'em up with minimalistic graphics and short game length
+Exec=kuklomenos
+Icon=kuklomenos
+Terminal=false
+Categories=Game;ArcadeGame;
